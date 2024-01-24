@@ -20,8 +20,7 @@ Click the delete button to remove items from the Todo list
 
 ## Installation
 
-1. Close the repository:
-   ```bash
+1. Clone the repository:
 git clone https://github.com/your-username/todo-list.git
 
 2. Navigate to the project directory:
