@@ -1,8 +1,8 @@
-# Todo List
+## Todo List
 
 A simple Todo List project where you can input items to a list by submitting through the input section and delete items by clicking the delete button.
 
-#Usage:
+## Usage:
 
 Use the input section to add items to the Todo list.
 
@@ -18,19 +18,23 @@ Click the delete button to remove items from the Todo list
 - React
 - JSX
 
-# Installation
+## Installation
 
-1. Clone the repository:
-
-```bash
+1. Close the repository:
+   ```bash
 git clone https://github.com/your-username/todo-list.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 cd todo-list
 
-Install dependencies:
+3. Install dependencies:
 npm install
 
+4. Start server:
+   npm start
 
-#License
-MIT License.
+
+## License:
+
+MIT License. 
+
