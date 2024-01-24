@@ -2,11 +2,11 @@
 
 A simple Todo List project where you can input items to a list by submitting through the input section and delete items by clicking the delete button.
 
+#Usage:
 
-## Features
+Use the input section to add items to the Todo list.
 
-- Add items to the Todo list.
-- Delete items from the Todo list.
+Click the delete button to remove items from the Todo list
 
 ## Demo
 
@@ -18,7 +18,7 @@ A simple Todo List project where you can input items to a list by submitting thr
 - React
 - JSX
 
-## Installation
+# Installation
 
 1. Clone the repository:
 
@@ -31,11 +31,6 @@ cd todo-list
 Install dependencies:
 npm install
 
-# Usage:
 
-Use the input section to add items to the Todo list.
-
-Click the delete button to remove items from the Todo list.
-
-# License
+#License
 MIT License.
